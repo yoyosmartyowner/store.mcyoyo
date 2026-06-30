@@ -1,0 +1,1 @@
+console.log('MCYOYO Store loaded');
